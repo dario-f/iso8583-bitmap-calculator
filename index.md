@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/dario-f/iso8583-bitmap-calculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Collection of Personal Information**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The app does not collect, transmit or share any information, personal or otherwise.
 
-### Markdown
+**Email**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you email the developer for support or other feedback, the emails with email addresses will
+be retained for quality assurance purposes. The email addresses will be used only to reply to
+the concerns or suggestions raised and will never be used for any marketing purpose.
 
-```markdown
-Syntax highlighted code block
+**Disclosure of Personal Information**
 
-# Header 1
-## Header 2
-### Header 3
+We will not disclose your information to any third party except if you expressly consent or
+where required by law.
 
-- Bulleted
-- List
+**Changes to This Policy**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dario-f/iso8583-bitmap-calculator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You are advised to review this policy periodically for any changes. By using the ISO8583 Bitmap Calculator app, you agree to the collection and use of information in accordance with this policy.
